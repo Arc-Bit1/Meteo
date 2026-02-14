@@ -1,0 +1,2 @@
+-keep class com.example.meteo.** { *; }
+-dontwarn javax.annotation.**
